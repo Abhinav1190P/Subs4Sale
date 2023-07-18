@@ -1,6 +1,6 @@
 # Subs4Sale - Freelance Services Marketplace
 
-![Subs4Sale Logo](insert_logo_image_url_here)
+![Subs4Sale Logo](https://res.cloudinary.com/dvvzlzude/image/upload/v1689665293/Frame_10_pfsavc.png)
 
 Subs4Sale is a dynamic online platform that connects skilled freelancers with clients seeking professional services. Built using the MERN (MongoDB, Express, React, Node.js) stack in just 1.4 weeks, Subs4Sale aims to provide an intuitive and efficient marketplace for buying and selling services, much like the popular platform Fiverr.
 
@@ -52,10 +52,6 @@ To run Subs4Sale locally on your machine, follow these steps:
 3. Set up the environment variables for the database and other configurations.
 4. Run the development server using `npm start`.
 
-## Usage
-
-Visit the live version of Subs4Sale at www.subs4sale.com and start exploring the vast array of services on offer. As a freelancer, you can easily sign up and create your gig listings. As a client, you can browse through services, chat with freelancers, and make secure payments.
-
 ## Screenshots
 
 ![Screenshot 1](https://res.cloudinary.com/dvvzlzude/image/upload/v1689664678/first_qedokm.png)
@@ -66,15 +62,9 @@ Visit the live version of Subs4Sale at www.subs4sale.com and start exploring the
 
 > "I had the pleasure of collaborating with an exceptional freelancer who possesses impressive programming skills and extensive knowledge of React, Node, and MongoDB. Their ability to accommodate modifications was greatly appreciated. I highly recommend their services! Thank you for your outstanding work" - *Abhishek Sahu*
 
-## Contributing
-
-We welcome contributions from the open-source community to enhance Subs4Sale further. Please fork the repository and create a pull request with your proposed changes.
-
 ## License
 
 Subs4Sale is released under the [MIT License](insert_license_link_here).
 
 ---
 
-*Note: Replace the placeholders (like `insert_logo_image_url_here`, `insert_screenshot1_image_url_here`, etc.) with the actual URLs or relevant content.*
-"# Subs4Sale" 

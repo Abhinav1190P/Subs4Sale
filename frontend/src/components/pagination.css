@@ -1,0 +1,37 @@
+.pagination{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+    gap: 5px;
+}
+
+.card-container{
+    width: 100%;
+    padding-top: 25px;
+    display: flex;
+    height: max-content;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+ul.pagination{
+    margin-top: 100px;
+}
+
+.pagination .page-num{
+    
+    padding: 8px 15px;
+    cursor: pointer;
+    
+    font-weight: 400;
+    color: gray;
+}
+.pagination .page-num:hover{
+    border-bottom: 3px solid green;
+    color: black;
+}
+

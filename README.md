@@ -40,8 +40,7 @@ Finding the right talent or showcasing your skills should be a hassle-free exper
 - Backend: Node.js, Express
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
-- Payment Integration: (Insert Payment Gateway)
-- Deployment: (Insert Deployment Platform)
+
 
 ## Installation
 
